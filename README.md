@@ -1,5 +1,3 @@
-# app-dev
-My first repository
 **Shaft**
 *A movie that sounds gay but is not*
 
